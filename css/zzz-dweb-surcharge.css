@@ -1,0 +1,37 @@
+.ls-lang-frr {
+    background-image: url(/theme/sima-sipsa_desktop/img/fr.png);
+    background-repeat: no-repeat;
+    background-position: 0 5px;
+    background-size: contain;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    vertical-align: text-top;
+}
+
+.linkid18854777 > a {
+    padding: 6px;
+}
+
+li.ls-lang-item > a > abbr {
+    display: none;
+}
+
+.ls-lang-ar a:before {
+    background-image: url(/theme/sima-sipsa_desktop/img/alg.png);
+}
+
+/*** changement map ***/
+
+.sima_map_link1 {
+    top: 94px;
+    left: 75px;
+    width: 170px;
+    height: 120px;
+}
+.sima_map_link2 {
+    top: 487px;
+    right: 97px;
+    width: 170px;
+    height: 120px;
+}
