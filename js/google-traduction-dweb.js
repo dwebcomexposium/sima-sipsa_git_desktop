@@ -12,7 +12,7 @@ $('.flag-icon-dz').click(function() {
       $frame.contents().find('.goog-te-menu2-item span.text:contains('+lang+')').get(0).click();
       $("li.ql-item.linkid188546").after("<li class='ql-item linkid18854777 closegoogle'><a href='#' class='btn-primary' target='_self'><i class='icon closegoogle ls-lang-frr' aria-hidden='true'></i></a></li>").fadeIn('fast');
       if(window.location.href.indexOf("en.") > -1) {
-       $('li.ql-item.linkid18854777.closegoogle > a > i').css("background-image", "url('/theme/sima-sipsa_desktop/img/uk.png')");
+       $('li.ql-item.linkid18854777.closegoogle > a > i').css("background-image", "url('/theme/sima-sipsa_git_desktop/img/uk.png')");
        $('li.ls-lang-item.ls-lang-en.is-active').fadeOut('fast');
       }
       $('.skiptranslate').css('visibility', 'hidden');

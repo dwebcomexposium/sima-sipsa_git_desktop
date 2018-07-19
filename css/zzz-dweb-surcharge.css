@@ -1,5 +1,5 @@
 .ls-lang-frr {
-    background-image: url(/theme/sima-sipsa_desktop/img/fr.png);
+    background-image: url(/theme/sima-sipsa_git_desktop/img/fr.png);
     background-repeat: no-repeat;
     background-position: 0 5px;
     background-size: contain;
@@ -18,7 +18,7 @@ li.ls-lang-item > a > abbr {
 }
 
 .ls-lang-ar a:before {
-    background-image: url(/theme/sima-sipsa_desktop/img/alg.png);
+    background-image: url(/theme/sima-sipsa_git_desktop/img/alg.png);
 }
 
 /*** changement map ***/
