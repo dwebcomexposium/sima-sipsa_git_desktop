@@ -35,3 +35,15 @@ li.ls-lang-item > a > abbr {
     width: 170px;
     height: 120px;
 }
+.site-banner .quicklinks .linkid760106 .btn-primary {
+    background-color: #226c30;
+    padding: .5em;
+    color: #fff;
+    border: 1px solid #226c30;
+    transition: all .3s
+}
+.site-banner .quicklinks .linkid232006 .btn-primary:hover {
+    background-color: #fff;
+    border-color: #226c30;
+    color: #226c30
+}
